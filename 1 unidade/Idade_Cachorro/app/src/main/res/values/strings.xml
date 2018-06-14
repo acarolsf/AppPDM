@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idade do Chorrinho</string>
+    <string name="titulo">Digite a idade do cachorro para descobrir a idade dele em anos humanos</string>
+    <string name="bt_diC">Descobrir Idade</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="sortear0to100">Sortear número entre 0 e 100</string>
+    <string name="sortearbt">Sortear</string>
+</resources>
